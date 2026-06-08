@@ -31,12 +31,12 @@ export default function RootLayout({
           <div className="absolute inset-0 -z-10 bg-black/40" />
 
           {/* Name */}
-          <h1 className="text-4xl font-bold tracking-wide">
-            Karabek Abiy Uulu
+          <h1 className="text-5xl font-bold tracking-wide">
+            KARABEK ABIY UULU
           </h1>
 
           {/* Divider */}
-          <div className="w-1/2 border-t border-gray-300 my-5"></div>
+          <div className="w-1/2 border-t-4 border-gray-600 my-5"></div>
 
           {/* Navigation */}
           <nav className="flex gap-10 mb-5">

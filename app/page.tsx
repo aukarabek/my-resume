@@ -72,15 +72,19 @@ export default function Home() {
           </span>
 
           <span className="px-4 py-2 border border-amber-600 rounded-lg bg-stone-700/60 text-amber-100 backdrop-blur-sm">
-            Docker
-          </span>
-
-          <span className="px-4 py-2 border border-amber-600 rounded-lg bg-stone-700/60 text-amber-100 backdrop-blur-sm">
             AWS
           </span>
 
           <span className="px-4 py-2 border border-amber-600 rounded-lg bg-stone-700/60 text-amber-100 backdrop-blur-sm">
-            Supabase
+            Lambda
+          </span>
+
+          <span className="px-4 py-2 border border-amber-600 rounded-lg bg-stone-700/60 text-amber-100 backdrop-blur-sm">
+            API Gateway
+          </span>
+
+          <span className="px-4 py-2 border border-amber-600 rounded-lg bg-stone-700/60 text-amber-100 backdrop-blur-sm">
+            GitHub Actions
           </span>
 
           <span className="px-4 py-2 border border-amber-600 rounded-lg bg-stone-700/60 text-amber-100 backdrop-blur-sm">
